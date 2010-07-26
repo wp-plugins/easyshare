@@ -4,7 +4,7 @@ Donate link: http://www.mushtitude.com/
 Tags: easyshare, share, partage, social
 Requires at least: 3.0
 Tested up to: 3.0
-Stable tag: 1.2
+Stable tag: 1.2.1
 
 easyShare is a plugin to share your content with friends, social networks etc ...
 
@@ -33,7 +33,13 @@ Not right now, probably in a next version (or via suggestions)
 
 == Changelog ==
 
+= 1.2.1 =
+* Add screenshots
+
 = 1.2 =
+* Add screenshots
+
+= 1.1 =
 * Add screenshots
 
 = 1.0 =

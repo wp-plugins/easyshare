@@ -3,7 +3,7 @@
 Plugin Name: easyShare
 Plugin URI: http://www.mushtitude.com
 Description: easyShare is a plugin to share your content with friends, social networks etc ... you can custom the plugin via <a href="options-general.php?page=easyshare/easyshare.php">the settings page</a>
-Version: 1.0
+Version: 1.2.1
 Author: st3ph
 Author URI: http://www.mushtitude.com
 License: GPL2
@@ -24,18 +24,6 @@ License: GPL2
     along with this program; if not, write to the Free Software
     Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 */
-
-function pr($var) {
-	echo '<pre>';
-	print_r($var);
-	echo '</pre>';
-}
-
-function prd($var) {
-	pr($var);
-	die;
-}
-
 
 register_activation_hook( __FILE__, 'easyshare_activate' );
 add_action('admin_menu', 'easyshare_menu');
