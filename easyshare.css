@@ -1,0 +1,12 @@
+.easyShareContent {background:#eee;width:320px;padding:5px;border:1px solid #666}
+.easyShareContent div.title {font-weight:bold;margin-bottom:5px}
+.easyShareContent ul {margin-left:5px}
+.easyShareContent ul li {list-style:none;width:150px;float:left}
+.easyShareContent ul li img {padding-right:5px;border:0}
+.easyShareContent ul li a {font-weight:bold;font-size:10px;text-decoration:underline}
+.easyShareContent ul li a:hover {text-decoration:none}
+
+.easyShareBox {overflow:hidden;width:465px}
+.easyShareBox ul {list-style: none;margin:0}
+.easyShareBox li {float:left;margin:0 5px;list-style: none}
+.easyShareBox li a {text-decoration:none;background:none}
