@@ -4,7 +4,7 @@ Donate link: http://www.mushtitude.com/
 Tags: easyshare, share, partage, social
 Requires at least: 3.0
 Tested up to: 3.0
-Stable tag: 1.0
+Stable tag: 1.1
 
 easyShare is a plugin to share your content with friends, social networks etc ...
 
@@ -28,9 +28,8 @@ Not right now, probably in a next version (or via suggestions)
 
 == Screenshots ==
 
-1. This screen shot description corresponds to screenshot-1.(png|jpg|jpeg|gif). Note that the screenshot is taken from
-the directory of the stable readme.txt, so in this case, `/tags/4.3/screenshot-1.png` (or jpg, jpeg, gif)
-2. This is the second screen shot
+1. easyShare in action (big mode)
+2. settings page
 
 == Changelog ==
 
